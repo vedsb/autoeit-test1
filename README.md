@@ -38,5 +38,5 @@ The objective of this task is to generate high-accuracy, verbatim transcriptions
 4. Run the transcription: `python transcribe_eit.py`.
 
 ---
-**Contact**: [Your Name/Email]  
+**Contact**: [vedbodkhe3@gmail.com]  
 **Submitted for**: AutoEIT (GSoC 2026)
